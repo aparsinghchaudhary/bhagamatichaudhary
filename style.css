@@ -828,4 +828,10 @@ body{
   transform: translateY(0);
   opacity: 1;
 }
+@media (max-width: 1040px){
+  .section-title:before{
+    width:300%;
+    background-color: rgb(255, 0, 0);
+  }
+}
 
